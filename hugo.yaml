@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir: false
 services:
   disqus:
     shortname: fa-theyahya-com
-    disqus_identifier: guid
+    disqus_identifier: .Params.guid
 
 languages:
   fa:
