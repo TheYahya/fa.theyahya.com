@@ -1,0 +1,64 @@
+baseURL: 'https://fa.theyahya.com/'
+languageCode: fa-IR
+title: یحیی صیاداربابی
+theme: PaperMod
+enableRobotsTXT: true
+googleAnalytics: "G-SZWG7TS62Y"
+taxonomies:
+  category: category
+  tag: tag
+params:
+  homeInfoParams:
+    Title: 'وب نوشت‌ها - یحیی صیادرابابی'
+    Content: 'یحیی صیاداربابی هستم. به [کد](https://github.com/theyahya)، [کتاب](https://www.goodreads.com/theyahya)، [سینما](https://www.imdb.com/user/ur60072165/) و چیزای دیگه!‌ علاقه دارم. اینجا در مورد همه‌شون می‌نویسم. همیشه می‌تونید بهم ایمیل بزنید: `yahya.arbabi` در جیمیل.'
+  socialIcons: # optional
+    - name: "x"
+      url: "https://x.com/theyahya_"
+    - name: "github"
+      url: "https://github.com/TheYahya"
+  description: وب نوشت‌ها
+  defaultTheme: auto
+  disableThemeToggle: false
+  defaultTheme: auto
+  ShowPostNavLinks: true
+  showShareButtons: true
+  ShareButtons: ["linkedin", "x", "telegram", "whatsapp", "facebook"]
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: false
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main: []
+defaultContentLanguage: fa
+defaultContentLanguageInSubdir: false
+
+services:
+  disqus:
+    shortname: fa-theyahya-com
+    disqus_identifier: guid
+
+languages:
+  fa:
+    languageCode: 'fa-Fa'
+    languageDirection: rtl
+    languageName: 'Persian'
+    weight: 1
