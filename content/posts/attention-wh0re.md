@@ -7,7 +7,7 @@ category:
   - مصرفگرایی
 date: "2017-09-26T16:01:48+00:00"
 guid: http://theyahya.ir/blog/?p=330
-disqus_identifier: 330 http://ysarbabi.ir/blog/?p=330
+disqus_identifier: 330 http://theyahya.com/blog/?p=330
 tag:
   - اینستاگرام
   - توجه

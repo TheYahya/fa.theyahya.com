@@ -5,8 +5,8 @@ category:
   - زندگی
   - سبک-زندگی
 date: "2017-06-14T14:21:02+00:00"
-guid: http://ysarbabi.ir/blog/?p=287
-disqus_identifier: 287 http://ysarbabi.ir/blog/?p=287
+guid: http://theyahya.com/blog/?p=287
+disqus_identifier: 287 http://theyahya.com/blog/?p=287
 summary: |-
   > «برای کسی که واقعا دریافته باشد در مرگ هیچ چیز هولناکی وجود ندارد،هیچ چیز هراسناکی در زندگی هم وجود ندارد.» **تسلی بخشی‌های فلسفه** \- ص۷۱
 

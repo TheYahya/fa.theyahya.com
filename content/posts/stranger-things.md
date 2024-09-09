@@ -10,8 +10,8 @@ category:
   - فیلم
   - معرفی
 date: "2016-09-16T17:19:35+00:00"
-guid: http://ysarbabi.ir/blog/?p=134
-disqus_identifier: 134 http://ysarbabi.ir/blog/?p=134
+guid: http://theyahya.com/blog/?p=134
+disqus_identifier: 134 http://theyahya.com/blog/?p=134
 tag:
   - stranger-things
   - درام
