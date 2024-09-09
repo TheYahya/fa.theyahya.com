@@ -47,7 +47,13 @@ outputFormats:
     mediaType: application/rss+xml
     baseName: feed
 menu:
-  main: []
+  main:
+    - name: RSS فید 
+      url: /feed.xml
+    - name: وبلاگ انگلیسی
+      url: "https://theyahya.com"
+    - name: گیت‌هاب
+      url: "https://github.com/theyahya"
 defaultContentLanguage: fa
 defaultContentLanguageInSubdir: false
 
