@@ -6,8 +6,8 @@ category:
   - برنامه-نویسی
   - برنامه‌نویسی
 date: "2016-12-24T14:51:08+00:00"
-guid: http://theyahya.com/blog/?p=228
-disqus_identifier: 228 http://theyahya.com/blog/?p=228
+guid: https://theyahya.com/blog/?p=228
+disqus_identifier: 228 https://theyahya.com/blog/?p=228
 summary: چند روز پیش که کمی حوصله‌ام سر رفته بود و 1-2 ساعت وقت داشتم، تصمیم گرفتم صفحه اول (home، index یا هرچی..) سایت خودم [theyahya.com](http://theyahya.com/) را دوباره بنویسیم. و در انتهای این فرآیند که معمولا کارهای مرتب‌سازی کد و بهینه‌سازی‌ها را انجام می‌دهم. مسلما یکی از ابزارهایی که استفاده می‌کنم سایت [gtmetrix](https://gtmetrix.com/) است. از آنجایی که همیشه تا حد معقولی از بهینه‌سازی را طبق gtmetrix انجام می‌دهم، که خب روش منطقی هم همین است. ولی اینبار تصمیم گرفتم که به انتهای حد بهینه‌سازی نائل شوم و مصمم شدم که بالاترین رتبه را کسب کنم!‌ که خب نتیجه‌ای رضایت‌بخشی حاصل شد و تصمیم گرفتم که در مورد این فرآیند اینجا هم بنویسم و تقریبا تمام مراحل را در [گیت‌هاب](https://github.com/theyahya/aggressive-performance-gtmetrix) هم کامیت کردم و از مرحله هم یک [release دادم](https://github.com/theyahya/aggressive-performance-gtmetrix/releases) که مرور کد کاملا راحت‌تر شود.
 tag:
   - web

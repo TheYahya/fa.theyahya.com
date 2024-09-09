@@ -7,8 +7,8 @@ category:
   - نقد-فیلم
   - پیشنهاد-فیلم
 date: "2016-11-02T18:07:38+00:00"
-guid: http://theyahya.com/blog/?p=198
-disqus_identifier: 198 http://theyahya.com/blog/?p=198
+guid: https://theyahya.com/blog/?p=198
+disqus_identifier: 198 https://theyahya.com/blog/?p=198
 summary: مهمانی سوسیسی یا [Sausage Party](http://www.imdb.com/title/tt1700841/) یک انیمیشن تمام عیار است؛ کمدی و ماجراجویی را IMDB ذکر کرده و من درام و تراژدی را اضافه می‌کنم. نکته‌ی قابل توجهی که در نگاه اول جلب توجه می‌کند، رده‌بندی سنی R است؛ شوخی‌های جنسی زننده‌ای که در فیلم موج می‌زنند و شاید رفتارهای خشن و بنظرم انتقادهای اساسی فیلم به بنیاین‌های فلسفی.
 tag:
   - انیمیشن

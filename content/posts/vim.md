@@ -6,7 +6,7 @@ category:
   - یادگیری
 date: "2018-04-07T09:10:24+00:00"
 guid: http://theyahya.ir/blog/?p=407
-disqus_identifier: 407 http://theyahya.com/blog/?p=407
+disqus_identifier: 407 https://theyahya.com/blog/?p=407
 tag:
   - vim
   - برنامه-نویسی

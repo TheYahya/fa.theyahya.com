@@ -3,8 +3,8 @@ author: Yahya
 category:
   - نقد-فیلم
 date: "2016-10-18T07:09:00+00:00"
-guid: http://theyahya.com/blog/?p=190
-disqus_identifier: 190 http://theyahya.com/blog/?p=190
+guid: https://theyahya.com/blog/?p=190
+disqus_identifier: 190 https://theyahya.com/blog/?p=190
 summary: فیلم [مرثیه‌ای بر یک رویا](http://www.imdb.com/title/tt0180093/) اثر قابل توجه‌ای است که می‌توان از جنبه‌های مختلف آن را مورد ارزیابی قرار داد. پیش از این تنها فیلم نوح (Noah 2014) را از دارن آرنوفسکی دیده بودم، فیلم خوبی نبود؛ آشفتگی روایت و یک مشت مشکل دیگر آن را به اثری تبدیل کرده بود که به سختی می‌شد تا انتها دنبالش کرد. همین باعث شد که زیاد توجهی به نام آرنوفسکی به عنوان کارگردان فیلم نکنم! اما با دیدن شاهکاری مانند Requiem for a Dream کمتر کسی می‌تواند جلودار کنجکاوری خود در مورد سازنده‌اش شود. مسلما دیگر آثار آرنوفسکی را هم خواهم دید، بخصوص [Black Swan](http://www.imdb.com/title/tt0947798/) که قبلا [مقایسه‌ای](http://www.slashfilm.com/birdman-black-swan-comparison/) از‌ آن با فیلم مورد علاقه‌ام [Birdman](http://www.imdb.com/title/tt2562232/) در اینترنت منتشر شده بود که در نوع خود جالب است.
 tag:
   - نقد-فیلم

@@ -9,7 +9,7 @@ category:
   - معرفی-کتاب
 date: "2018-04-18T18:00:15+00:00"
 guid: http://theyahya.ir/blog/?p=422
-disqus_identifier: 422 http://theyahya.com/blog/?p=422
+disqus_identifier: 422 https://theyahya.com/blog/?p=422
 tag:
   - اینستاگرام
   - جامعه
