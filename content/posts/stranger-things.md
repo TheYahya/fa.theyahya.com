@@ -10,7 +10,8 @@ category:
   - فیلم
   - معرفی
 date: "2016-09-16T17:19:35+00:00"
-guid: http://ysarbabi.ir/blog/?p=134
+guid: https://theyahya.com/blog/?p=134
+disqus_identifier: 134 http://ysarbabi.ir/blog/?p=134
 tag:
   - stranger-things
   - درام
@@ -25,7 +26,7 @@ title: معرفی سریال Stranger Things
 url: /معرفی-سریال-stranger-things/
 
 ---
-[![معرفی سریال stranger things](/wp-content/uploads/stranger-things-first-season.50673.jpg)](http://theyahya.com/blog/wp-content/uploads/stranger-things-first-season.50673.jpg)
+[![معرفی سریال stranger things](/wp-content/uploads/stranger-things-first-season.50673.jpg)](https://theyahya.com/blog/wp-content/uploads/stranger-things-first-season.50673.jpg)
 
 سریال [Stranger Things](http://www.imdb.com/title/tt4574334/) از بهترین‌های تابستان امسال بود. سریالی که توانست نظر منتقدین و مخاطبین را همزمان به خود جلب کند و موجب رضایت هردو گروه شود.
 
